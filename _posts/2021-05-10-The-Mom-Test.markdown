@@ -7,7 +7,7 @@ permalink: /:categories/:title/
 ---
 
 - Read 'The Mom Test' over the weekend. [Rob Fitzpatrick's](https://robfitz.com/) writing style is really entertaining! 
-- Plus, his years of running multiple ventures over the last decade add real heft to this book.
+- Plus, his years of running multiple ventures over the last decade add real credibility to this book.
 - The book's subtitle does a perfect job of describing what it's about - "How to talk to customers and learn if your business is a good idea when everyone is _lying to you_.
 - "It’s not anyone else’s responsibility to show us the truth. It’s our responsibility to find it. We do that by asking good questions. The Mom Test is a set of simple rules for crafting good questions that even your mom can't lie to you about" -->
 
@@ -52,9 +52,8 @@ permalink: /:categories/:title/
 <br/>
 
 - A _must-read_ for folks who are looking to build businesses of their own. Don't fall into the trap of seeking validation in compliments.
-- Some noteworthy (and some chuckle worthy) rule of thumbs :)
+- Some noteworthy (and some chuckle worthy) rules of thumb :)
     - "Rule of thumb: People stop lying when you ask them for money."
-    - "Rule of thumb: People will lie to you if they think it’s what you want to hear."
     - "Rule of thumb: People will lie to you if they think it’s what you want to hear."
     - "Rule of thumb: While it’s rare for someone to tell you precisely what they’ll pay you, they’ll often show you what it’s worth to them."
     - "Rule of thumb: Give as little information as possible about your idea while still nudging the discussion in a useful direction."
