@@ -10,4 +10,8 @@ This is where I'll try and keep an updated list of interesting book summaries.
 
 <li> {{ post.date | date: "%B %Y" }} <a href= "/blog/{{post.permalink}}"> {{post.title}} </a> </li>
 
+{{post.permalink}}
+
+{{post.url}}
+
 {% endfor %}
