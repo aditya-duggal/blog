@@ -3,7 +3,7 @@ layout: post
 title:  "The Mom Test"
 date:   2021-05-10 18:21:54 +0530
 categories: BookSummaries 
-permalink: /blog/:categories/:title/
+permalink: /:categories/:title/
 ---
 
 - Read 'The Mom Test' over the weekend. [Rob Fitzpatrick's](https://robfitz.com/) writing style is really entertaining! 
